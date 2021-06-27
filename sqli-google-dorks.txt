@@ -1,0 +1,36 @@
+intext:"error in your SQL syntax"
+intext:"mysql_num_rows()" 
+in****:"mysql_fetch_array()" 
+in****:"Error Occurred While Processing Request" 
+in****:"Server Error in '/' Application" 
+in****:"Microsoft OLE DB Provider for ODBC Drivers error" 
+in****:"InvalidQuerystring" 
+in****:"OLE DB Provider for ODBC" 
+in****:"VBScript Runtime" 
+in****:"ADODB.Field" 
+in****:"BOF or EOF" 
+in****:"ADODB.Command" 
+in****:"JET Database" 
+in****:"mysql_fetch_row()" 
+in****:"Syntax error" 
+in****:"include()" 
+in****:"mysql_fetch_assoc()" 
+in****:"mysql_fetch_object()" 
+in****:"mysql_numrows()" 
+in****:"GetArray()" 
+in****:"FetchRow()" 
+in****:"Input string was not in a correct format" 
+inurl:/id= intext:"You have an error in your SQL syntax" 
+inurl:&#8221;main.php?t=
+inurl:&#8221;games.php?id=
+inurl:&#8221;guide.php?id=
+inurl:&#8221;index.php?cat=
+allinurl:&#8221;review.php?sid=
+inurl:&#8221;index2.php?id=
+inurl:&#8221;main.php?id=
+inurl:zoom.php?id=site:.il
+inurl:&#8221;details.php?id=
+inurl:&#8221;?came=
+inurl:&#8221;index.php?page=
+inurl:&#8221;home.php?cat=
+inurl:&#8221;index2.php?id=
