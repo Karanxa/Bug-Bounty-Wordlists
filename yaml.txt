@@ -19,8 +19,6 @@
 /.scrutinizer.yml
 /.semaphore/semaphore.yml
 /.travis.yml
-/.travis.yml.swp
-/.travis.yml~
 /.wp-cli/config.yml
 /admission_controller_config.yaml
 /ansible/push_ssh_keys_remote.yml
