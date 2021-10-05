@@ -20,6 +20,7 @@ kube-scheduler.log
 node-role.kubernetes.io
 kube-apiserver.log
 basic_auth.csv
+basic_auth02.csv
 dns.alpha.kubernetes.io
 apiserver-aggregator.key
 etcd.log
