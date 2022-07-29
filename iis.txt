@@ -284,7 +284,7 @@ BbsFace.asp
 /bin/
 bin
 bin/
-/bins/
+bins/
 bins
 bins/
 blank.asp
